@@ -1,4 +1,5 @@
 Chat-mate is a conversational chatbot designed for general-purpose interactions. It is implemented using natural language processing techniques and is intended to provide users with a friendly and engaging experience. It is designed with numpy and tensorflow neural framework and Deep-Learning to analyse the user's message, classify it into the a broader category and then reply with a suitable message or the required information.
+
 Key Features:
 1. Intent-Based Interaction: The chatbot recognizes various user intents, allowing it to respond appropriately to a wide range of user inputs.
 2. Diverse Functionality: Chat-mate can handle greetings, farewells, expressions of gratitude, jokes, identity questions, date and time requests, weather inquiries, and more.
